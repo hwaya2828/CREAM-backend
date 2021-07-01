@@ -38,7 +38,9 @@
 
 ### Backend
 
-- django 사용을 통한 DB 관리
+- mysql 사용을 통한 DB 관리
+
+- django를 사용한 웹서버 구축
 
 - AWS 사용을 통한 사이트 배포
 
